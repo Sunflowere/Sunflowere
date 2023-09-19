@@ -4,4 +4,8 @@ hellowa
 LiuHongtao will be rich
 gogogogogo
 dasda
+<<<<<<< HEAD
 djasd
+=======
+wanner be rich
+>>>>>>> 38c680cfc172769848aea18bc5f09ec2d9774765
